@@ -1,3 +1,3 @@
-_**You make a living by what you earn; you make a life by what you give.**_
+_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
 
-Winston Churchill
+Napoleon Bonaparte
