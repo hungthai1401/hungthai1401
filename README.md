@@ -1,3 +1,3 @@
-_**A man can suffer to bring a group of people to success, not the other way.**_
+_**You are very powerful, provided you know how powerful you are.**_
 
-Ganesh
+Yogi Bhajan
