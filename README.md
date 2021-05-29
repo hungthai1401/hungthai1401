@@ -1,3 +1,3 @@
-_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-Isaac Lidsky
+Jack Ma
