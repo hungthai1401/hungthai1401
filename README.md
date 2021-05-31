@@ -1,3 +1,3 @@
-_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
+_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
 
-Jack Ma
+Mary Dunbar
