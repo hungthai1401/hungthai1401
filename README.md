@@ -1,3 +1,3 @@
-_**Named must your fear be before banish it you can.**_
+_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
 
-Yoda
+Greg Child
