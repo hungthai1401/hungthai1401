@@ -1,3 +1,3 @@
-_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
+_**What you do speaks so loudly that I cannot hear what you say.**_
 
-Charles Bukowski
+Ralph Waldo Emerson
