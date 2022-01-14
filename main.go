@@ -58,7 +58,7 @@ func main() {
 	}
 	defer f.Close()
 
-	_, err = f.WriteString(fmt.Sprintf("_**%s**_\n\n%s", quote.Quote, quote.Author))
+	_, err = f.WriteString(fmt.Sprintf(">%s\n\n-- <cite>%s</cite>", quote.Quote, quote.Author))
 
 	if err != nil {
 		panic(err)
