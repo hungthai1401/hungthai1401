@@ -1,3 +1,3 @@
->What you do speaks so loudly that I cannot hear what you say.
+>Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
 
-**Ralph Waldo Emerson**
+**Thomas Edison**
