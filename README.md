@@ -1,3 +1,3 @@
->Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
+>The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better
 
-**Thomas Edison**
+**Barbara Pletcher**
