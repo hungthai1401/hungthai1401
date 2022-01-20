@@ -1,3 +1,3 @@
->Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
+>If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
 
-**William James Moore**
+**John W. Holt, Jr.**
