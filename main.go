@@ -33,7 +33,7 @@ type Response struct {
 }
 
 func main() {
-	res, err := http.Get("http://quotes.rest/qod?language=en&quot")
+	res, err := http.Get("https://quotes.rest/qod?language=en&quot")
 	if err != nil {
 		panic(err)
 	}
