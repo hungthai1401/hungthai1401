@@ -1,3 +1,3 @@
->You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
+>Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.
 
-**Edmund Hillary**
+**Vince Lombardi**
