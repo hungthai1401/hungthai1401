@@ -1,3 +1,3 @@
->If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
+>Winning isn't everything.. It's the only thing.
 
-**Steve Maraboli**
+**Vincent van Gogh**
