@@ -1,3 +1,3 @@
->You must be the change you want to see in the world..
+>You make a living by what you earn; you make a life by what you give.
 
-**M.K. Gandhi**
+**Winston Churchill**
