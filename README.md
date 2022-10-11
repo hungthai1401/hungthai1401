@@ -1,3 +1,3 @@
->Great things are done by a series of small things brought together.
+>There's such a thin line between winning and losing.
 
-**Vincent Van Gogh**
+**John R. Tunis**
