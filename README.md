@@ -1,3 +1,3 @@
->Vision without action is daydream. Action without vision is nightmare..
+>Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
 
-**Japanese Proverb**
+**Brene Brown**
