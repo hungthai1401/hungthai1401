@@ -1,3 +1,3 @@
->If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+>Some men see things as they are and say why.. I dream things that never were and say why not.
 
-**Phil Grimshaw**
+**George Bernard Shaw**
