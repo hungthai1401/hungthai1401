@@ -1,3 +1,3 @@
->Some men see things as they are and say why.. I dream things that never were and say why not.
+>If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
 
-**George Bernard Shaw**
+**Jack Ma**
