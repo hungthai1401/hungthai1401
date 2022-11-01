@@ -1,3 +1,3 @@
->Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.
+>Let our advance worrying become advance thinking and planning.
 
-**Dale Patridge**
+**Winston Churchill**
