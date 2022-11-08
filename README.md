@@ -1,3 +1,3 @@
->Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+>The best way to predict the future is to create it.
 
-**Brene Brown**
+**Abraham Lincoln**
