@@ -1,3 +1,3 @@
->It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+>Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.
 
-**Dale Carnegie**
+**John Gardner**
