@@ -1,3 +1,3 @@
->If you don't have confidence, you'll always find a way not to win
+>Vision without action is daydream. Action without vision is nightmare..
 
-**Carl Lewis**
+**Japanese Proverb**
