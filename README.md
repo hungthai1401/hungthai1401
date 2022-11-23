@@ -1,3 +1,3 @@
->Vision without action is daydream. Action without vision is nightmare..
+>Do the best you can until you know better. Then when you know better, do better.
 
-**Japanese Proverb**
+**Maya Angelou**
