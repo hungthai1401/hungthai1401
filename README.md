@@ -1,3 +1,3 @@
->Do the best you can until you know better. Then when you know better, do better.
+>What you do speaks so loudly that I cannot hear what you say.
 
-**Maya Angelou**
+**Ralph Waldo Emerson**
