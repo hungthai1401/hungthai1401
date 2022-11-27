@@ -1,3 +1,3 @@
->What you do speaks so loudly that I cannot hear what you say.
+>When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
 
-**Ralph Waldo Emerson**
+**Jean Shinoda Bolen**
