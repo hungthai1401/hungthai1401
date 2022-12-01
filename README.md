@@ -1,3 +1,3 @@
->When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+>A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.
 
-**Jean Shinoda Bolen**
+****
