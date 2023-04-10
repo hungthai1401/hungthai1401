@@ -13,27 +13,35 @@ type Response struct {
 	} `json:"success"`
 	Contents struct {
 		Quotes []struct {
-			Quote      string   `json:"quote"`
-			Length     string   `json:"length"`
-			Author     string   `json:"author"`
-			Category   string   `json:"category"`
-			Language   string   `json:"language"`
-			Date       string   `json:"date"`
-			Permalink  string   `json:"permalink"`
-			ID         string   `json:"id"`
-			Background string   `json:"background"`
-			Title      string   `json:"title"`
+			Quote      string `json:"quote"`
+			Length     int    `json:"length"`
+			Author     string `json:"author"`
+			Category   string `json:"category"`
+			Language   string `json:"language"`
+			Date       string `json:"date"`
+			Permalink  string `json:"permalink"`
+			ID         string `json:"id"`
+			Background string `json:"background"`
+			Title      string `json:"title"`
 		} `json:"quotes"`
 	} `json:"contents"`
 	Baseurl   string `json:"baseurl"`
 	Copyright struct {
-		Year int    `json:"year"`
+		Year string `json:"year"`
 		URL  string `json:"url"`
 	} `json:"copyright"`
 }
 
 func main() {
-	res, err := http.Get("https://quotes.rest/qod?language=en&quot")
+	request, err := http.NewRequest("GET", "https://quotes.rest/qod?language=en&quot", nil)
+	if err != nil {
+		panic(err)
+	}
+	request.Header.Set("Content-Type", "application/json; charset=UTF-8")
+	request.Header.Set("Accept", "application/json")
+	request.Header.Set("X-TheySaidSo-Api-Secret", "PjMpSvDAM2rwhtiD6q279G2GW7wQGez6mJsBmxQi")
+	client := &http.Client{}
+	res, err := client.Do(request)
 	if err != nil {
 		panic(err)
 	}
