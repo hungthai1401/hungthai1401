@@ -49,6 +49,10 @@ func main() {
 
 	fmt.Println("Response status:", res.Status)
 	fmt.Println("Response body:", res.Body)
+	
+	if res.StatusCode != http.StatusOK {
+    		panic(res.Status)
+  	}
 
 	response := &Response{}
 	err = json.NewDecoder(res.Body).Decode(response)
