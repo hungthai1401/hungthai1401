@@ -1,3 +1,3 @@
->Hang Out with People Who are Better than You.
+>Win any way as long as you can get away with it. Nice guys finish last.
 
-**Warren Buffett**
+**Leo Durocher**
