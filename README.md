@@ -1,3 +1,3 @@
->Win any way as long as you can get away with it. Nice guys finish last.
+>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 
-**Leo Durocher**
+**Barack Obama**
