@@ -1,3 +1,3 @@
->The journey of a thousand miles begins with one step.
+>We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.
 
-**Lao Tzu**
+**Sheryl Sandberg**
