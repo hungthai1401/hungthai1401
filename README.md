@@ -1,3 +1,3 @@
->We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.
+>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
 
-**Sheryl Sandberg**
+**Daireth Winehouse**
