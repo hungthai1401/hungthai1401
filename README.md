@@ -1,3 +1,3 @@
->If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+>Your life does not get better by chance. It gets better by change.
 
-**Barack Obama**
+**Jim Rohn**
