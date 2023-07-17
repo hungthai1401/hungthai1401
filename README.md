@@ -1,3 +1,3 @@
->When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
+>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
 
-**Anuj Somany**
+**Daireth Winehouse**
