@@ -1,3 +1,3 @@
->Logic will get you from A to B. Imagination will take you everywhere.
+>If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 
-**Albert Einstein**
+**John Quincy Adams**
