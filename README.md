@@ -1,3 +1,3 @@
->When it comes to winning, you need the skill and the will.
+>Win any way as long as you can get away with it. Nice guys finish last.
 
-**Frank Tyger**
+**Leo Durocher**
