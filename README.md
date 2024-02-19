@@ -1,3 +1,3 @@
->Whether you think you can or think you can't, you're right..
+>The man who removes a mountain begins by carrying away small stones..
 
-**Henry Ford**
+**Chinese Proverb**
