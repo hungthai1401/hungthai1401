@@ -1,3 +1,3 @@
->Life is 10% what happens to us and 90% how we react to it.
+>Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
 
-**Dennis P. Kimbro**
+**Matthew Keith Groves**
