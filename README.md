@@ -1,3 +1,3 @@
->We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.
+>When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
 
-**Sheryl Sandberg**
+**Anuj Somany**
