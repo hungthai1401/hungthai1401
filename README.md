@@ -1,3 +1,3 @@
->Luck is a dividend of sweat. The more you sweat, the luckier you get
+>Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
 
-**Ray Kroc**
+**Daireth Winehouse**
