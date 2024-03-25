@@ -1,3 +1,3 @@
->Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+>If you want to test your memory, try to recall what you were worrying about one year ago today.
 
-**Daireth Winehouse**
+**E. Joseph Cossman**
