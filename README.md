@@ -1,3 +1,3 @@
->I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.
+>An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!
 
-**Elon Musk**
+**G. Kingsley Ward**
