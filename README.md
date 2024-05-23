@@ -1,3 +1,3 @@
->Luck is a dividend of sweat. The more you sweat, the luckier you get
+>If you want to test your memory, try to recall what you were worrying about one year ago today.
 
-**Ray Kroc**
+**E. Joseph Cossman**
