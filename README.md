@@ -1,3 +1,3 @@
->A quitter never wins and a winner never quits
+>When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
 
-**Napoleon Hill**
+**Anuj Somany**
