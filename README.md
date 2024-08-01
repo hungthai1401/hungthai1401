@@ -1,3 +1,3 @@
->Your life does not get better by chance. It gets better by change.
+>Those who know how to win are much more numerous than those who know how to make proper use of their victories
 
-**Jim Rohn**
+**Polybius**
