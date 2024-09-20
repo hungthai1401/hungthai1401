@@ -1,3 +1,3 @@
->There's such a thin line between winning and losing.
+>Luck is a dividend of sweat. The more you sweat, the luckier you get
 
-**John R. Tunis**
+**Ray Kroc**
