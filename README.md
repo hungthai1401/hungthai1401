@@ -1,3 +1,3 @@
->Do not wait to strike till the iron is hot; but make it hot by striking..
+>I know for sure that what we dwell on is who we become.
 
-**William B. Sprague**
+**Oprah Winfrey**
