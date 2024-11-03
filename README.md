@@ -1,3 +1,3 @@
->Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
+>You make a living by what you earn; you make a life by what you give.
 
-**Thomas Edison**
+**Winston Churchill**
