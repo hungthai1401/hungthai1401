@@ -1,3 +1,3 @@
->Winning is not everything, but the effort to win is.
+>Winning is nice if you don't lose your integrity in the process.
 
-**Zig Ziglar**
+**Arnold Horshak**
