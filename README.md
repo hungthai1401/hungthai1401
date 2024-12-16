@@ -1,3 +1,3 @@
->Whether you think you can or think you can't, you're right..
+>When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
 
-**Henry Ford**
+**Anuj Somany**
