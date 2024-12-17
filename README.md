@@ -1,3 +1,3 @@
->When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
+>The man who removes a mountain begins by carrying away small stones..
 
-**Anuj Somany**
+**Chinese Proverb**
