@@ -1,3 +1,3 @@
->Let our advance worrying become advance thinking and planning.
+>Think ahead. Don't let day-to-day operations drive out planning.
 
-**Winston Churchill**
+**Donald Rumsfeld**
