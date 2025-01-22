@@ -1,3 +1,3 @@
->Think ahead. Don't let day-to-day operations drive out planning.
+>Winners have simply formed the habit of doing things losers don't like to do
 
-**Donald Rumsfeld**
+**Albert Gray**
