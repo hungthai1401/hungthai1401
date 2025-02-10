@@ -1,3 +1,3 @@
->It wasn't raining when Noah built the ark..
+>Even if you're on the right track, you'll get run over if you just sit there..
 
-**Howard Ruff**
+**Will Rogers**
