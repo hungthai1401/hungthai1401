@@ -1,3 +1,3 @@
->We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.
+>Luck is a dividend of sweat. The more you sweat, the luckier you get
 
-**Sheryl Sandberg**
+**Ray Kroc**
