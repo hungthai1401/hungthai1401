@@ -1,3 +1,3 @@
->If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.
 
-**Barack Obama**
+**Elon Musk**
