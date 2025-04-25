@@ -1,3 +1,3 @@
->If you want to make your dreams come true, the first thing you have to do is wake up.
+>Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
 
-**J.M. Power**
+**Matthew Keith Groves**
