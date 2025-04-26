@@ -1,3 +1,3 @@
->Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
+>The real opportunity for success lies within the person and not in the job.
 
-**Matthew Keith Groves**
+**Zig Ziglar**
