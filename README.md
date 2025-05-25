@@ -1,3 +1,3 @@
->Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+>Your life does not get better by chance. It gets better by change.
 
-**Daireth Winehouse**
+**Jim Rohn**
