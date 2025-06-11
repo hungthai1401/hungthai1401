@@ -1,3 +1,3 @@
->Even if you're on the right track, you'll get run over if you just sit there..
+>When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
 
-**Will Rogers**
+**Anuj Somany**
