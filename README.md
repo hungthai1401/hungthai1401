@@ -1,3 +1,3 @@
->I am an optimist. It does not seem too much use being anything else..
+>The best way to predict the future is to create it.
 
-**Winston Churchill**
+**Abraham Lincoln**
