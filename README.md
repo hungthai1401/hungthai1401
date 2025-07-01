@@ -1,3 +1,3 @@
->The man who has confidence in himself gains the confidence of others.
+>Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
 
-**Hasidic Proverb**
+**Thomas Edison**
