@@ -1,3 +1,3 @@
->The journey of a thousand miles begins with one step.
+>The determination to win is the better part of winning.
 
-**Lao Tzu**
+**Daisaku Ikeda**
