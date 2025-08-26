@@ -1,26 +1,47 @@
-name: quote_generator
+# name: quote_generator
+
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: "0 0 * * *"
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: actions/setup-go@v2
+#         with:
+#           go-version: 1.15.7
+#       - run: go version
+#       - name: Generate quote
+#         run: go run main.go
+#       - name: Update README.md
+#         run: |
+#           git config --global user.email "hungthai1401.it@gmail.com"
+#           git config --global user.name "Thai Nguyen Hung"
+#           git add .
+#           git commit -m "Updated README.md" || echo "No changes to commit"
+#           git push
+
+name: Update README
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '* * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          go-version: 1.15.7
-      - run: go version
-      - name: Generate quote
-        run: go run main.go
-      - name: Update README.md
-        run: |
-          git config --global user.email "hungthai1401.it@gmail.com"
-          git config --global user.name "Thai Nguyen Hung"
-          git add .
-          git commit -m "Updated README.md" || echo "No changes to commit"
-          git push
+          GH_USERNAME: hungthai1401
+          COMMIT_NAME: Thai Nguyen Hung
+          COMMIT_EMAIL: hungthai1401.it@gmail.com

@@ -1,3 +1,8 @@
->Life is 10% what happens to us and 90% how we react to it.
+### Hi there 👋
 
-**Dennis P. Kimbro**
+##### I am Thai, a Disciplined Software Engineer.💻
+
+---
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
