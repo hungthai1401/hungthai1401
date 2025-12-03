@@ -6,9 +6,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/mixedbread-ai/mgrep/pull/49#issuecomment-3588825836) in [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
-2. 💪 Opened PR [#49](undefined) in [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
-3. 🗣 Commented on [#99](https://github.com/Pimzino/spec-workflow-mcp/pull/99#issuecomment-3582015101) in [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
-4. 🗣 Commented on [#8](https://github.com/hungthai1401/bruno-mcp/issues/8#issuecomment-3517417836) in [hungthai1401/bruno-mcp](https://github.com/hungthai1401/bruno-mcp)
-5. 💪 Opened PR [#2131](undefined) in [lra/mackup](https://github.com/lra/mackup)
+1. ❌ Merged PR [#49](undefined) in [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
+2. 🗣 Commented on [#49](https://github.com/mixedbread-ai/mgrep/pull/49#issuecomment-3588825836) in [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
+3. 💪 Opened PR [#49](undefined) in [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep)
+4. 🗣 Commented on [#99](https://github.com/Pimzino/spec-workflow-mcp/pull/99#issuecomment-3582015101) in [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
+5. 🗣 Commented on [#8](https://github.com/hungthai1401/bruno-mcp/issues/8#issuecomment-3517417836) in [hungthai1401/bruno-mcp](https://github.com/hungthai1401/bruno-mcp)
 <!--END_SECTION:activity-->
