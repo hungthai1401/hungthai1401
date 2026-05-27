@@ -6,9 +6,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#170](https://github.com/roadrunner-php/laravel-bridge/pull/170) in [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge)
-2. 💪 Opened PR [#170](https://github.com/roadrunner-php/laravel-bridge/pull/170) in [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge)
-3. 💪 Opened PR [#476](https://github.com/router-for-me/CLIProxyAPIPlus/pull/476) in [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus)
-4. ❗ Opened issue [#74](https://github.com/NikkeTryHard/zerogravity/issues/74) in [NikkeTryHard/zerogravity](https://github.com/NikkeTryHard/zerogravity)
-5. ℹ️ Labeled issue [#63](https://github.com/NikkeTryHard/zerogravity/issues/63) in [NikkeTryHard/zerogravity](https://github.com/NikkeTryHard/zerogravity)
+1. 💪 Opened PR [#262](https://github.com/whyisdifficult/jiratui/pull/262) in [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui)
+2. 💪 Opened PR [#1](https://github.com/hungthai1401/jiratui/pull/1) in [hungthai1401/jiratui](https://github.com/hungthai1401/jiratui)
+3. 🎉 Merged PR [#1](https://github.com/hungthai1401/hostie/pull/1) in [hungthai1401/hostie](https://github.com/hungthai1401/hostie)
+4. 💪 Opened PR [#1](https://github.com/hungthai1401/hostie/pull/1) in [hungthai1401/hostie](https://github.com/hungthai1401/hostie)
+5. 🎉 Merged PR [#170](https://github.com/roadrunner-php/laravel-bridge/pull/170) in [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge)
 <!--END_SECTION:activity-->
